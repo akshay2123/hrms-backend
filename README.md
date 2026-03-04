@@ -332,6 +332,16 @@ Frontend reloads attendance list
 
 ---
 
+Project URL Link
+
+Frontend Repo:
+https://github.com/akshay2123/hrms-frontend
+
+Backend Repo:
+https://github.com/akshay2123/hrms-backend
+
+---
+
 # Error Handling
 
 - Backend returns validation errors
